@@ -1,0 +1,19 @@
+{
+    "name": "Fernando",
+    "description": "A business WhatsApp bot to maintail business",
+    "repository": "https://github.com/FantoX001/Fernando",
+    "logo": "https://graph.org/file/f3621afa9c7551fcd366f.png",
+    "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
+    "buildpacks": [
+      {
+        "url": "heroku/nodejs"
+      }
+    ],
+     "formation": {
+          "worker": {
+              "quantity": 1,
+              "size": "free"
+          }
+      }
+  }
+  
