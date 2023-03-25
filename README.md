@@ -69,7 +69,7 @@
 <br>
 
 <br><br>
-<h3 align="center">💫 If yoy want me to make a business bot for your business, don't hesitate to contact me. 💫
+<h3 align="center"> If yoy want me to make a business bot for your business, don't hesitate to contact me. 
 </h3>
 
 
